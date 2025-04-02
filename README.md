@@ -89,6 +89,7 @@
 <li>Improved resizing for images with different proportions</li>
 <li>Improved cropping</li>
 <li>More efficient matching algorithms ( if any)</li>
+<li>Decrease false positives</li>
 </ul>
 <p><strong>Scripts (order of processing)</strong></p>
 <ol>
