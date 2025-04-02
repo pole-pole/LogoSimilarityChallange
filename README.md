@@ -79,10 +79,11 @@
 <td>
 <p>Final number of groups</p>
 </td>
+  <td><p>887*</p></td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>* The final matching script has grouped together white logos coming from SVG. which resulted in the merging of some 137 groups. This, a more accurate number for the final number of groups would be 1013.</p>
 <p>Room for improvement:</p>
 <ul>
 <li>Improved image processing for transparency/negative images</li>
